@@ -8,3 +8,9 @@ For more sanity, use the Arduino Makefile instead of their IDE:
 
 then just "make upload" possibly tweaking Makefile settings.
 
+Parameters for the program, the number of data points to log
+and how often, are in dht_logger.h.
+
+Usage is to run the program on the microcontroller and then
+periodically read the data off with the getdata.py script.
+
