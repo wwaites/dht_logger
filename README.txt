@@ -14,3 +14,6 @@ and how often, are in dht_logger.h.
 Usage is to run the program on the microcontroller and then
 periodically read the data off with the getdata.py script.
 
+See http://www.altpibroch.com/learning/instrumenting-the-instrument
+for an application.
+
